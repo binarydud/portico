@@ -8,7 +8,7 @@ with open(path.join(here, 'README.md')) as f:
 
 setup(
     name="portico",
-    version='1.2.0',
+    version='0.1.0',
     description='decorator library for aws lambda functions',
     long_description=long_description,
     url='https://github.com/binarydud/portico',
